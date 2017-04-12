@@ -63,10 +63,13 @@ header {
 .logo a {
 	font-size: 43px;
     text-decoration: none;
-    color: #005858;
+    color: #021d7e;
     letter-spacing: 4px;
     font-family: 'Philosopher', sans-serif;
     text-transform: uppercase;
+}
+.centrar{
+	margin: 0 auto;
 }
 .w3ls-social-icons{
 	float:left;
@@ -75,7 +78,7 @@ header {
 }
 .w3ls-social-icons i {
 	font-size: 15px;
-    background: rgba(154, 106, 19, 0.84);
+    background: #001d56;
     padding: 8px 10px;
     color: #fff;
     border: 1px solid #eee;
