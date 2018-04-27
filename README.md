@@ -1,4 +1,3 @@
-# lc850.github.io
-Página principal
-cesmart <a href="lc850.github.io/cesmart">mjbjhgjhgjhgjhgjh</a>
-<h1>Indice de práticas</h1>
+# Indice de practicas de bootstrap
+<a href="https://lc850.github.io/practica1bootstrap.html">Practica 1 de bootstrap.- GRIDS</a>
+
